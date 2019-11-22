@@ -1,0 +1,22 @@
+{
+  "name": "developer-tools-challenge",
+  "version": "1.0.0",
+  "description": "Developer tools challenge is a series of gamified puzzled aimed at teaching the player about the built-in browser developer tools as well as some fundementals of web developments in a fun enticing way. It is more than inspired by the classic Python Challenge. In fact it is an attempt to make the web-developer version of it.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviyadeveloper/developer-tools-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviyadeveloper/developer-tools-challenge/issues"
+  },
+  "homepage": "https://github.com/aviyadeveloper/developer-tools-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
