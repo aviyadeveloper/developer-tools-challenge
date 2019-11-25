@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Developer Tools Challenge</title>
+
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      div.content-container {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        justify-content: center;
+        margin: auto;
+        width: min-content;
+      }
+
+      h1 {
+        font-family: monospace;
+        margin-bottom: 64px;
+      }
+
+      form#start {
+        display: flex;
+        flex-direction: column;
+        min-width: 25vw;
+      }
+
+      input#code {
+        font-family: monospace;
+        font-size: 1.5rem;
+        margin: 8px;
+      }
+
+      input#code::placeholder {
+        text-align: left;
+      }
+
+      button#submit {
+        font-family: monospace;
+        font-size: 1.5rem;
+        margin: 8px;
+      }
+
+      button#submit:hover {
+        cursor: pointer;
+      }
+
+      .text-adjuster {
+        color: black;
+        padding: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="content-container">
+      <h1>> DEVELOPER<br />> TOOLS<br />> CHALLENGE</h1>
+      <form id="start" method="GET" action="/">
+        <input
+          id="code"
+          class="text-adjuster"
+          type="text"
+          name="code"
+          value=""
+          placeholder="challenge code (optional)"
+        />
+        <button id="submit" class="text-adjuster" type="submit">Start</button>
+      </form>
+    </div>
+  </body>
+</html>
