@@ -14,17 +14,17 @@
         "entryPoint": "challenges/2/index.html",
         "levelNumber": 2,
         "previousLevelCode": "mMqD",
-        "nextLevelCode": false,
+        "nextLevelCode": "AYHK",
         "author": "Aviya",
         "notes": false,
         "imagePath": "challenges/svg-files/WTMm.svg"
     },
     "AYHK": {
-        "isChallenge": false,
-        "entryPoint": false,
-        "levelNumber": false,
-        "previousLevelCode": false,
-        "nextLevelCode": false,
+        "isChallenge": true,
+        "entryPoint": "challenges/3/index.html",
+        "levelNumber": 3,
+        "previousLevelCode": "WTMm",
+        "nextLevelCode": "mN8n",
         "author": false,
         "notes": false,
         "imagePath": "challenges/svg-files/AYHK.svg"
