@@ -7,6 +7,8 @@ const app = express();
 const ipAddress = ip.address();
 const port = process.env.PORT || 3000;
 
+app.use(express.static('public'));
+
 app.get('/', (req, res) => {
   const code = req.query['code'];
 
@@ -21,16 +23,10 @@ app.get('/', (req, res) => {
       path.join(__dirname, '/challenges/list.json')
     );
     const list = JSON.parse(listFile);
-    const index = list.indexOf(code);
 
     // Fetch level path
-    if (index > -1) {
-      const challengePath = path.join(
-        __dirname,
-        'challenges',
-        (index + 1).toString(),
-        'index.html'
-      );
+    if (list[code]) {
+      const challengePath = path.join(__dirname, list[code]['entryPoint']);
 
       // Send level
       return res.sendFile(challengePath);

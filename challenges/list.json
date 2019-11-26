@@ -1,10 +1,2002 @@
-[
-  "1G4EWT8TH",
-  "2JOK2N245",
-  "3K672NDJ2",
-  "4GFF23FE2",
-  "5B22R90JL",
-  "6DWT294DV",
-  "7GEW23212",
-  "8BBRQWS68"
-]
+{
+    "mMqD": {
+        "isChallenge": true,
+        "entryPoint": "challenges/1/index.html",
+        "levelNumber": 1,
+        "previousLevelCode": false,
+        "nextLevelCode": "WTMm",
+        "author": "Aviya",
+        "notes": false,
+        "imagePath": "challenges/svg-files/mMqD.svg"
+    },
+    "WTMm": {
+        "isChallenge": true,
+        "entryPoint": "challenges/2/index.html",
+        "levelNumber": 2,
+        "previousLevelCode": "mMqD",
+        "nextLevelCode": false,
+        "author": "Aviya",
+        "notes": false,
+        "imagePath": "challenges/svg-files/WTMm.svg"
+    },
+    "AYHK": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/AYHK.svg"
+    },
+    "mN8n": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/mN8n.svg"
+    },
+    "NBHC": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/NBHC.svg"
+    },
+    "F91i": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/F91i.svg"
+    },
+    "ijYV": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/ijYV.svg"
+    },
+    "BwiF": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/BwiF.svg"
+    },
+    "VmAc": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/VmAc.svg"
+    },
+    "MjEe": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/MjEe.svg"
+    },
+    "CE11": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/CE11.svg"
+    },
+    "iy0D": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/iy0D.svg"
+    },
+    "yIby": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/yIby.svg"
+    },
+    "7o0P": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/7o0P.svg"
+    },
+    "0nSq": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/0nSq.svg"
+    },
+    "5KC6": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/5KC6.svg"
+    },
+    "4Lo5": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/4Lo5.svg"
+    },
+    "4lTy": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/4lTy.svg"
+    },
+    "wqiq": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/wqiq.svg"
+    },
+    "xcn0": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/xcn0.svg"
+    },
+    "hJLY": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/hJLY.svg"
+    },
+    "cswC": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/cswC.svg"
+    },
+    "YvfB": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/YvfB.svg"
+    },
+    "aQQs": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/aQQs.svg"
+    },
+    "rXTQ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/rXTQ.svg"
+    },
+    "dKYf": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/dKYf.svg"
+    },
+    "Wrdv": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Wrdv.svg"
+    },
+    "UuAt": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/UuAt.svg"
+    },
+    "E6tR": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/E6tR.svg"
+    },
+    "exV5": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/exV5.svg"
+    },
+    "DlaH": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/DlaH.svg"
+    },
+    "pfHK": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/pfHK.svg"
+    },
+    "epWD": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/epWD.svg"
+    },
+    "rOI9": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/rOI9.svg"
+    },
+    "BCoD": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/BCoD.svg"
+    },
+    "hsYZ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/hsYZ.svg"
+    },
+    "QBsv": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/QBsv.svg"
+    },
+    "qDvE": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/qDvE.svg"
+    },
+    "6yxE": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/6yxE.svg"
+    },
+    "uNXy": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/uNXy.svg"
+    },
+    "RAjx": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/RAjx.svg"
+    },
+    "r9jQ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/r9jQ.svg"
+    },
+    "l5wR": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/l5wR.svg"
+    },
+    "FiSS": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/FiSS.svg"
+    },
+    "jbrj": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/jbrj.svg"
+    },
+    "bl4o": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/bl4o.svg"
+    },
+    "6fS1": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/6fS1.svg"
+    },
+    "Zo7X": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Zo7X.svg"
+    },
+    "s5GN": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/s5GN.svg"
+    },
+    "qP96": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/qP96.svg"
+    },
+    "wYar": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/wYar.svg"
+    },
+    "EakE": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/EakE.svg"
+    },
+    "qu0x": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/qu0x.svg"
+    },
+    "27Z6": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/27Z6.svg"
+    },
+    "aZxc": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/aZxc.svg"
+    },
+    "pLjK": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/pLjK.svg"
+    },
+    "kpB5": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/kpB5.svg"
+    },
+    "rH3Y": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/rH3Y.svg"
+    },
+    "lZQT": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/lZQT.svg"
+    },
+    "Qlv2": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Qlv2.svg"
+    },
+    "FN04": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/FN04.svg"
+    },
+    "9O88": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/9O88.svg"
+    },
+    "oi1o": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/oi1o.svg"
+    },
+    "xAJQ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/xAJQ.svg"
+    },
+    "00Hl": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/00Hl.svg"
+    },
+    "F6fh": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/F6fh.svg"
+    },
+    "sX2F": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/sX2F.svg"
+    },
+    "LwNA": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/LwNA.svg"
+    },
+    "0nlg": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/0nlg.svg"
+    },
+    "oN89": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/oN89.svg"
+    },
+    "nmvN": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/nmvN.svg"
+    },
+    "Mip9": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Mip9.svg"
+    },
+    "Uqns": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Uqns.svg"
+    },
+    "ZGMp": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/ZGMp.svg"
+    },
+    "rH7h": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/rH7h.svg"
+    },
+    "5K0J": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/5K0J.svg"
+    },
+    "LhJO": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/LhJO.svg"
+    },
+    "EHiN": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/EHiN.svg"
+    },
+    "aCgP": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/aCgP.svg"
+    },
+    "vpoy": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/vpoy.svg"
+    },
+    "JhCl": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/JhCl.svg"
+    },
+    "3bWY": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/3bWY.svg"
+    },
+    "l5RJ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/l5RJ.svg"
+    },
+    "fxnd": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/fxnd.svg"
+    },
+    "4LWW": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/4LWW.svg"
+    },
+    "BphH": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/BphH.svg"
+    },
+    "IZw3": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/IZw3.svg"
+    },
+    "Ltrj": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Ltrj.svg"
+    },
+    "puxh": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/puxh.svg"
+    },
+    "V0am": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/V0am.svg"
+    },
+    "lLa0": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/lLa0.svg"
+    },
+    "FEUN": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/FEUN.svg"
+    },
+    "8OeQ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/8OeQ.svg"
+    },
+    "4Hrb": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/4Hrb.svg"
+    },
+    "akSU": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/akSU.svg"
+    },
+    "iXQd": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/iXQd.svg"
+    },
+    "XrBi": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/XrBi.svg"
+    },
+    "1ywk": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/1ywk.svg"
+    },
+    "Wd4P": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Wd4P.svg"
+    },
+    "WDYY": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/WDYY.svg"
+    },
+    "7nA3": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/7nA3.svg"
+    },
+    "pcnt": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/pcnt.svg"
+    },
+    "F6pQ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/F6pQ.svg"
+    },
+    "m7N7": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/m7N7.svg"
+    },
+    "JfZF": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/JfZF.svg"
+    },
+    "Jt7o": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Jt7o.svg"
+    },
+    "kbFf": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/kbFf.svg"
+    },
+    "6roD": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/6roD.svg"
+    },
+    "Ho2r": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Ho2r.svg"
+    },
+    "qXdL": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/qXdL.svg"
+    },
+    "likM": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/likM.svg"
+    },
+    "jsKZ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/jsKZ.svg"
+    },
+    "TeRh": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/TeRh.svg"
+    },
+    "0hUq": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/0hUq.svg"
+    },
+    "pbQ3": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/pbQ3.svg"
+    },
+    "wPCO": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/wPCO.svg"
+    },
+    "LSqb": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/LSqb.svg"
+    },
+    "R620": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/R620.svg"
+    },
+    "ZeDm": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/ZeDm.svg"
+    },
+    "0gb6": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/0gb6.svg"
+    },
+    "GYlm": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/GYlm.svg"
+    },
+    "l14I": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/l14I.svg"
+    },
+    "of0l": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/of0l.svg"
+    },
+    "p9yy": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/p9yy.svg"
+    },
+    "5bcr": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/5bcr.svg"
+    },
+    "s1MG": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/s1MG.svg"
+    },
+    "e8yx": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/e8yx.svg"
+    },
+    "ssot": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/ssot.svg"
+    },
+    "nvJO": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/nvJO.svg"
+    },
+    "WswL": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/WswL.svg"
+    },
+    "ctcI": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/ctcI.svg"
+    },
+    "Pd9f": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Pd9f.svg"
+    },
+    "7TEQ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/7TEQ.svg"
+    },
+    "dbij": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/dbij.svg"
+    },
+    "cZjl": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/cZjl.svg"
+    },
+    "ouqZ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/ouqZ.svg"
+    },
+    "Twty": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Twty.svg"
+    },
+    "UmMc": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/UmMc.svg"
+    },
+    "sSlM": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/sSlM.svg"
+    },
+    "xAHe": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/xAHe.svg"
+    },
+    "qBDa": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/qBDa.svg"
+    },
+    "DmrG": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/DmrG.svg"
+    },
+    "8m7j": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/8m7j.svg"
+    },
+    "tOD2": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/tOD2.svg"
+    },
+    "JOYr": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/JOYr.svg"
+    },
+    "vfjQ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/vfjQ.svg"
+    },
+    "9uPF": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/9uPF.svg"
+    },
+    "TYdD": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/TYdD.svg"
+    },
+    "XV6M": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/XV6M.svg"
+    },
+    "RTja": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/RTja.svg"
+    },
+    "Gbkt": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Gbkt.svg"
+    },
+    "JNlq": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/JNlq.svg"
+    },
+    "fmJN": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/fmJN.svg"
+    },
+    "cHYy": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/cHYy.svg"
+    },
+    "sBxb": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/sBxb.svg"
+    },
+    "6AAI": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/6AAI.svg"
+    },
+    "QPno": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/QPno.svg"
+    },
+    "1cTF": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/1cTF.svg"
+    },
+    "IwTt": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/IwTt.svg"
+    },
+    "HZS7": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/HZS7.svg"
+    },
+    "twGM": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/twGM.svg"
+    },
+    "tqWp": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/tqWp.svg"
+    },
+    "19LH": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/19LH.svg"
+    },
+    "03uG": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/03uG.svg"
+    },
+    "oo30": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/oo30.svg"
+    },
+    "Vw1P": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Vw1P.svg"
+    },
+    "vyFt": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/vyFt.svg"
+    },
+    "o48g": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/o48g.svg"
+    },
+    "vtGh": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/vtGh.svg"
+    },
+    "OC9l": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/OC9l.svg"
+    },
+    "4Dnb": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/4Dnb.svg"
+    },
+    "vmmH": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/vmmH.svg"
+    },
+    "t4jA": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/t4jA.svg"
+    },
+    "tcuw": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/tcuw.svg"
+    },
+    "6r11": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/6r11.svg"
+    },
+    "Axrn": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Axrn.svg"
+    },
+    "5H0a": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/5H0a.svg"
+    },
+    "DuQd": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/DuQd.svg"
+    },
+    "Z4QY": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Z4QY.svg"
+    },
+    "8g5T": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/8g5T.svg"
+    },
+    "KBoG": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/KBoG.svg"
+    },
+    "4sv2": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/4sv2.svg"
+    },
+    "1iYC": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/1iYC.svg"
+    },
+    "cFJw": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/cFJw.svg"
+    },
+    "F8U5": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/F8U5.svg"
+    },
+    "kuaG": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/kuaG.svg"
+    },
+    "Pwuq": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/Pwuq.svg"
+    },
+    "bjk9": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/bjk9.svg"
+    },
+    "N2xT": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/N2xT.svg"
+    },
+    "MTaf": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/MTaf.svg"
+    },
+    "sIN4": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/sIN4.svg"
+    },
+    "3FnP": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/3FnP.svg"
+    },
+    "BH3T": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/BH3T.svg"
+    },
+    "XLR8": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/XLR8.svg"
+    },
+    "2MDw": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/2MDw.svg"
+    },
+    "vPXS": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/vPXS.svg"
+    },
+    "vNJZ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/vNJZ.svg"
+    },
+    "HepJ": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/HepJ.svg"
+    },
+    "5Kse": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/5Kse.svg"
+    },
+    "C5qF": {
+        "isChallenge": false,
+        "entryPoint": false,
+        "levelNumber": false,
+        "previousLevelCode": false,
+        "nextLevelCode": false,
+        "author": false,
+        "notes": false,
+        "imagePath": "challenges/svg-files/C5qF.svg"
+    }
+}

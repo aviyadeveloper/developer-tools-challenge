@@ -1,1 +1,40 @@
-level 1
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Loading...</title>
+  </head>
+  <style>
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(359deg);
+      }
+    }
+    body {
+      align-items: center;
+      display: flex;
+      height: 100vh;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    #loader {
+      animation: spin 2s linear infinite;
+      display: block;
+      width: 100px;
+      position: absolute;
+      z-index: 1;
+    }
+  </style>
+  <body>
+    <img id="loader" src="1/loader.svg" alt="wow what's taking so long?" />
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="24"><path fill="black" stroke="black" d="M2.43 19.90L0.57 3.09L2.47 3.09L3.46 15.95L5.11 3.09L6.89 3.09L8.54 15.95L9.53 3.09L11.43 3.09L9.57 19.90L7.68 19.90L6 6.55L4.31 19.90L2.43 19.90ZM12.94 4.97L12.94 3.09L23.06 3.09L23.06 4.97L19.01 4.97L19.01 19.90L16.99 19.90L16.99 4.97L12.94 4.97ZM25.15 19.90L25.15 3.09L27.54 3.09L29.99 16.89L32.44 3.09L34.84 3.09L34.84 19.90L33.21 19.90L33.21 6.86L30.88 19.90L29.11 19.90L26.87 6.86L26.87 19.90L25.15 19.90ZM37.10 8.50L38.37 8.50L38.64 9.39Q39.66 8.04 40.77 8.04L40.77 8.04Q41.88 8.04 42.49 9.39L42.49 9.39Q43.56 8.04 44.84 8.04L44.84 8.04Q46.90 8.04 46.90 10.92L46.90 10.92L46.90 19.90L45.18 19.90L45.18 11.25Q45.18 9.57 44.33 9.57L44.33 9.57Q43.57 9.57 43.10 10.42L43.10 10.42Q42.83 10.95 42.83 11.57L42.83 11.57L42.83 19.90L41.16 19.90L41.16 11.23Q41.16 9.57 40.29 9.57L40.29 9.57Q38.82 9.57 38.82 11.54L38.82 11.54L38.82 19.90L37.10 19.90L37.10 8.50Z"/></svg>
+    </svg>
+  </body>
+</html>
