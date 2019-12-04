@@ -27,9 +27,13 @@ app.get('/', (req, res) => {
     // Fetch level path
     if (list[code]) {
       const challengePath = path.join(__dirname, list[code]['entryPoint']);
-
-      // Send level
-      return res.sendFile(challengePath);
+      if (path.extname(challengePath) === '.js') {
+        let generateLevel = require(challengePath);
+        res.send(generateLevel());
+      } else if (path.extname(challengePath) === '.html') {
+        // Send level
+        return res.sendFile(challengePath);
+      }
     } else {
       return res.send({ error: 'code does not exist' });
     }

@@ -61,7 +61,7 @@
     },
     "NBHC": {
         "isChallenge": true,
-        "entryPoint": "challenges/7/index.html",
+        "entryPoint": "challenges/7/index.js",
         "levelNumber": 7,
         "previousLevelCode": "F91i",
         "nextLevelCode": "BWIp",
