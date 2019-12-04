@@ -81,16 +81,16 @@
     },
     "VmAc": {
         "isChallenge": true,
-        "entryPoint": false,
+        "entryPoint": "challenges/9/index.html",
         "levelNumber": 9,
-        "previousLevelCode": false,
-        "nextLevelCode": false,
-        "author": false,
+        "previousLevelCode": "BWIp",
+        "nextLevelCode": "MjEe",
+        "author": "Aviya",
         "notes": false,
         "imagePath": "challenges/svg-files/VmAc.svg"
     },
     "MjEe": {
-        "isChallenge": true,
+        "isChallenge": false,
         "entryPoint": false,
         "levelNumber": 10,
         "previousLevelCode": false,
