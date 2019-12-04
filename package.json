@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/aviyadeveloper/developer-tools-challenge.git"
   },
-  "author": "",
+  "author": "Aviya Developer",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aviyadeveloper/developer-tools-challenge/issues"
@@ -22,5 +22,8 @@
     "express": "^4.17.1",
     "ip": "^1.1.5",
     "text-to-svg": "^3.1.5"
+  },
+  "engines": {
+    "node": "10.17.0"
   }
 }
