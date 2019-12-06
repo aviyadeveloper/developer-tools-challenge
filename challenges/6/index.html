@@ -13,25 +13,26 @@
       body {
         align-items: center;
         display: flex;
+        font-family: monospace;
         height: 100vh;
         justify-content: center;
         margin: 0;
         padding: 0;
       }
-
+      table {
+        border-collapse: collapse;
+      }
       th,
       td {
-        font-family: monospace;
         height: 48px;
         text-align: center;
         width: 48px;
       }
-
       th {
         display: none;
       }
-      td.code {
-        background-color: cornflowerblue;
+      td {
+        border: 1px solid black;
       }
     </style>
   </head>
@@ -39,14 +40,14 @@
     <table>
       <thead>
         <tr>
-          <th data-col="1">a</th>
-          <th data-col="2">*</th>
-          <th data-col="3">d</th>
-          <th data-col="4">=</th>
-          <th data-col="5">b</th>
-          <th data-col="6">*</th>
-          <th data-col="7">c</th>
-          <th data-col="8">😵</th>
+          <th data-col="1">a*d</th>
+          <th data-col="2">=</th>
+          <th data-col="3">b*c</th>
+          <th data-col="4"></th>
+          <th data-col="5">a&#60;b&#60;c&#60;d</th>
+          <th data-col="6"></th>
+          <th data-col="7">a&#8800;1</th>
+          <th data-col="8"></th>
         </tr>
       </thead>
       <tbody>
